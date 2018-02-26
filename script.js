@@ -1,2 +1,1 @@
-more changes
-This is for try1
+This is the Script.js file information 
